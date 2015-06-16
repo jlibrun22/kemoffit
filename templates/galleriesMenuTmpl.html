@@ -1,0 +1,33 @@
+		<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+     <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <i class="fa fa-bars fa-2x"></i>
+      </button><a href="#">
+    <div id= "header-gallery">
+    
+    katie moffitt
+ 
+</div></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+      <ul class="nav navbar-nav pull-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle navItem" data-toggle="dropdown">photo galleries <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+                               {{ _.each(model, function(link,index) { }}
+    <li><a href="{{=hrefs[index]}}">{{=link}}</a></li>
+{{ }); }} 
+          </ul>
+        </li>
+               <li><a href="#videoGallery" class= "navItem">videos</a></li>
+            <li><a href="#aboutMe" class= "navItem">about me</a></li>
+           <!--<li><a link="#contactMe" class= "navItem">contact me</a></li>-->
+         </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+    </div>

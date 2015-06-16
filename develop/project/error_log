@@ -1,0 +1,21 @@
+[29-Sep-2014 02:24:52 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:24:52 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:24:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:25:11 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:11 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:25:29 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:29 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:25:41 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:41 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:25:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:27:25 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:27:25 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:27:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:27:29 America/Chicago] PHP Warning:  scandir(galleries/valiance): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:27:29 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:27:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
+[29-Sep-2014 02:31:12 America/Chicago] PHP Warning:  scandir(galleries/people): failed to open dir: No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:31:12 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/kemoffit/public_html/develop/project/getImages.php on line 11
+[29-Sep-2014 02:31:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/kemoffit/public_html/develop/project/getImages.php on line 14
